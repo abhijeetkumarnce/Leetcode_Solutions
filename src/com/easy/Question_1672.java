@@ -1,6 +1,8 @@
+package com.easy;
+
 // https://leetcode.com/problems/richest-customer-wealth/description/
 
-public class Example1672 {
+public class Question_1672 {
     public static void main(String[] args) {
         int[][] accounts = {
                 {2,8,7},

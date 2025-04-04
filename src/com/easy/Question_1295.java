@@ -1,6 +1,8 @@
+package com.easy;
+
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 
-public class Example1295 {
+public class Question_1295 {
     public static void main(String[] args) {
         int[] nums =  {437,315,322,431,686,264,442};
         int ans = findNumbers(nums);
